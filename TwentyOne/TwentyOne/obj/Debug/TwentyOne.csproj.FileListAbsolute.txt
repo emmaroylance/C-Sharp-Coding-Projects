@@ -5,3 +5,10 @@ C:\Users\kent\Desktop\Bootcamp1\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.c
 C:\Users\kent\Desktop\Bootcamp1\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\kent\Desktop\Bootcamp1\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\kent\Desktop\Bootcamp1\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\kent\Desktop\Bootcamp1\GitHub\The-Tech-Academy-C-Sharp-Coding-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
