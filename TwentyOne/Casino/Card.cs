@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public struct Card
     {
@@ -18,11 +18,12 @@ namespace TwentyOne
         }
     }
 
-    public enum Suit {
-        Clubs=4,
-        Diamonds=10,
-        Hearts=12,
-        Spades=15
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
     }
 
     public enum Face
