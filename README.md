@@ -1,1 +1,2 @@
-# The-Tech-Academy-C-Sharp-Coding-Projects
+# C # Coding Projects
+This repository showcases my advanced coding projects.
