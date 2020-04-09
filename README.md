@@ -1,2 +1,2 @@
-# C # Coding Projects
-This repository showcases my advanced coding projects.
+# C# Coding Projects
+This repository showcases my advanced C# coding projects.
